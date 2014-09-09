@@ -8,8 +8,13 @@ IEEE Computer Society mendefinisikan rekayasa perangkat lunak sebagai penerapan 
 Rekayasa perangkat lunak adalah pengubahan perangkat lunak itu sendiri guna mengembangkan, memelihara, dan membangun kembali dengan menggunakan prinsip reakayasa untuk menghasilkan perangkat lunak yang dapat bekerja lebih efisien dan efektif untuk pengguna.
 
 kriteria yang dapat digunakan sebagai acuan dalam merekayasa perangkat lunak:
+
 1. dapat terus dirawat dan dipelihara(maintainability)
+
 2. dapat mengikuti perkembangan teknologi(dependability)
+
 3. dapat mengikuti keinginan pengguna(robust)
+
 4. efektif dan efisien dalam menggunakan energi dan penggunaannya
+
 5. dapat memenuhi kebutuhan yang diinginkan(usability)
